@@ -1,11 +1,9 @@
-
-
 import smtplib
 import datetime
 import time
 
-TO = 'receipent@mailservice.com'
-CC = ['rshelat@gmu.edu']
+TO = 'recipient@mailservice.com'
+CC = ['recipient2@mailservice.com']
 BCC = []
 SUBJECT = 'ENTER SUBJECT HERE'
 TEXT = 'ENTER EMAIL BODY HERE'
